@@ -5,8 +5,10 @@
 
 ## Table of Contents
  
-:melon: 面试知识整理  
-:apple: 优质面经分享    
-:strawberry: 内推资源共享   
+:melon: [面试知识整理](https://github.com/KaiyuanGao/Kick_AI_Interview/tree/master/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86)  
+
+:apple: [优质面经分享](https://github.com/KaiyuanGao/Kick_AI_Interview/tree/master/%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB) 
+
+:strawberry: [内推资源共享]()   
 
 
