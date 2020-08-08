@@ -2,7 +2,6 @@
 - [关于ELMo，面试官们都怎么问](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247484306&idx=1&sn=b9b996cf512d62a9e41571d134a62636&chksm=97aee540a0d96c561b157737b6d0ffb70bd8130c17d575bc247eb148ab1ce564fc281120d3c4&token=1761549850&lang=zh_CN#rd)
 - [关于Transformer，面试官们都怎么问](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247484333&idx=1&sn=7e26a0dc657af9373ce384db94b9b1e1&chksm=97aee57fa0d96c69ce36f58c9ef7ca0a9b4f4cfa9816a8d6295a54dcbe55f29a04ca69630eb4&token=1761549850&lang=zh_CN#rd)
 - [关于BERT，面试官们都怎么问](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247484380&idx=1&sn=55fccbb2565520bf747fa35359271673&chksm=97aee50ea0d96c180ccf9177c653e78097ee7a9f18a3fb02811c128548cb585b427887d0dc8f&token=1761549850&lang=zh_CN#rd)
-- []()
 - [Transformers Assemble（PART I）](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247483759&idx=1&sn=26e3e1139413af63ec4cdc2a29271088&chksm=97aee7bda0d96eab29ebc216486fbee1456a38aaff046e82bdfa08bf96f17bc9dc22f1a96dc7&token=1761549850&lang=zh_CN#rd)
 - [Transformers Assemble（PART II）](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247483798&idx=1&sn=72d8c9c1870a095bcdd32014fcdcb235&chksm=97aee744a0d96e52512dec76848993df462c87e5f78da6444d2c3793e199a7bb211f460438b0&token=1761549850&lang=zh_CN#rd)
 - [Transformers Assemble（PART III）](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247483970&idx=1&sn=bf3696f54985e779b5f0f3ccbd923b91&chksm=97aee490a0d96d867586e0196c64a9b36e38e3ca537e7beba1f8af6ab01109ecd746e47d80dd&token=1761549850&lang=zh_CN#rd)
